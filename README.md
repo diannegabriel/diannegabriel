@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! Thanks for visiting my GitHub.
+
+## A little bit about me:
+
+
 
 <!--
 **diannegabriel/diannegabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
