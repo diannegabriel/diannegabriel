@@ -1,6 +1,12 @@
 ### Hello! Thanks for visiting my GitHub.
 
-## A little bit about me:
+#### A little bit about me:
+
+##### I'm Dianne Gabriel, a developer with a previous background in marketing, graphic design, videography, and art.
+
+##### Got into the world of tech and programming languages as early as 10 years old. I clearly remember coding my very first HTML, CSS, and JavaScript project and immediately got hooked!
+
+
 
 
 
