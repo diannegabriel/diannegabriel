@@ -6,11 +6,11 @@
 
 ## Why tech and coding?
 
-📂 Got into the world of tech and programming languages as early as 10 years old. I clearly remember coding my very first HTML, CSS, and JavaScript project and immediately got hooked! I enjoyed the satisfaction of creating something from scratch and having the creative freedom over it.
+📂 I got into the world of tech and programming languages as early as 10 years old. I clearly remember coding my very first HTML, CSS, and JavaScript project and immediately got hooked! I enjoyed the satisfaction of creating something from scratch and having the creative freedom over it.
 
 💻 While tech wasn't my first choice as a career after high school, my passion and love for coding has always lived within me. Finally, after deciding to switch careers, I enrolled to Lighthouse Labs Full Stack Web Dev Bootcamp in 2021.
 
-✨ After finishing the extremely challenging bootcamp, I realized that I truly enjoy the process of creating apps and products that solve people's problems. I deviate towards making self-care, motivational, and meaningful products that assist people in their daily struggles.
+✨ After finishing the extremely challenging bootcamp, I realized that I truly enjoy the process of creating apps and products that solve people's problems. I strive to make self-care, motivational, and meaningful products that assist people in their daily struggles.
 
 ## Where to reach me:
 
@@ -59,6 +59,8 @@ Currently learning:
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Testing
