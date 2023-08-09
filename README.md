@@ -15,6 +15,7 @@
 ## Find me at:
 
 📲 [LinkedIn](https://www.linkedin.com/in/diannegabriel/)
+
 🖥 [Portfolio](https://dianne.codes)
 
 ## Skills
