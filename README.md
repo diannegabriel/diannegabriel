@@ -12,9 +12,10 @@
 
 ✨ After finishing the extremely challenging bootcamp, I realized that I truly enjoy the process of creating apps and products that solve people's problems. I strive to make self-care, motivational, and meaningful products that assist people in their daily struggles.
 
-## Where to reach me:
+## Find me at:
 
 📲 [LinkedIn](https://www.linkedin.com/in/diannegabriel/)
+🖥 [Portfolio](https://dianne.codes)
 
 ## Skills
 
